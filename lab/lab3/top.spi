@@ -1,0 +1,4 @@
+INCLUDE ./module_a.spi
+
+.subckt top A B C D
+.end

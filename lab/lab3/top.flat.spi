@@ -1,0 +1,10 @@
+.subckt AN3 a3 a2 a1
+.end
+
+.subckt AN2 a1 a2
+.end
+
+
+
+.subckt top A B C D
+.end

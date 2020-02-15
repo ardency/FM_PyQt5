@@ -1,0 +1,7 @@
+INCLUDE ./module_c.spi
+
+.subckt AN2 a1 a2
+.end
+
+.subckt AN3 a2 a1 a3
+.end

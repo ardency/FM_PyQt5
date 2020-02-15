@@ -1,0 +1,4 @@
+1. 
+	1.1 parser xml and write JSON file
+	1.2 read XML using function
+2. python with argvment option -input <input file> -output <output file>
